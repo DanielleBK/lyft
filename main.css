@@ -1,0 +1,340 @@
+*{
+  margin: 0;
+}
+
+body{
+    width: 1279px;
+}
+
+nav{
+  width: 100%;
+  height: 635px;
+  display:relative;
+  background-image: linear-gradient(to bottom, #76278F, #2B1E66)
+}
+
+.logo{
+  height: 600px;
+  width: 100%;
+}
+.logoHero{
+  width: 100%;
+  margin-block-start: -90px;
+  height: 725px;
+  position: relative;
+  }
+
+  .logoWhite{
+  width: 50px;
+  height: 35px;
+  margin-left:60px;
+  margin-top:-579px;
+  display: flex;
+  position: relative;
+  }
+
+  .menuBar{
+  color:white;
+  display: flex;
+  position: relative;
+  margin-left: 831px;
+  font-size: 16px;
+  font-family: 'Montserrat';
+  margin-block-start: -27px;
+  }
+
+  .menuDrive,.menuExplore,.menuHelp{
+    margin: 10px;
+    text-decoration:none;
+    color:white;
+  }
+  .menuExplore,.menuHelp{
+  margin: 12px;
+    }
+
+  .bottomLog{
+    border: solid 1.25px white;
+    border-radius: 10%;
+    margin-inline-start: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin-top: -7px;
+}
+
+.boxWhite{
+  background-color: white;
+  flex-direction: column;
+  margin-left: 768px;
+  width: 510px;
+  margin-top:65px;
+  height: 380px;
+  font-family: "Montserrat";
+  position: absolute;
+}
+
+.turn{
+  display: flex;
+  font-size: 33px;
+  margin-left: 49px;
+  margin-top: 50px;
+  color: #3c2097;
+}
+.sign{
+  position: relative;
+  color: #3c2097;
+  margin-inline-start: 50px;
+  margin-top:22px;
+  font-size: 19px;
+}
+
+.fieldPhone{
+  border: 0 none;
+  margin-top: 21px;
+  font-family: "Montserrat";
+  color:#d7c7ca;
+  margin-inline-start: 50px ;
+  font-size:13.8px;
+}
+
+.lineWhite{
+  border-top: 1px solid black;
+  margin-inline-start: 50px ;
+  margin-top:3px;
+  margin-left: 50px;
+  width: 410px;
+}
+
+.buttonBoxWhite{
+border-radius: 8%;
+background-color: #ff05bf;
+font-family: Montserrat;
+font-size: 14px;
+color:white;
+margin-inline-start: 49px;
+margin-top: 18px;
+border-bottom-left-radius: 10%;
+padding: 9px;
+padding-left:18px;
+padding-right:16px;
+
+}
+
+.singRide{
+  font-size: 16px;
+  float: right;
+  margin-right: 167px;
+  margin-top: 26px;
+
+}
+
+.textBox{
+font-size: 11px;
+margin-inline-start:50px;
+margin-top:31px;
+line-height: 12px;
+ letter-spacing: 0.1px;
+}
+header{
+width: 100%;
+height: 503px;
+position: relative;
+background-image: linear-gradient(to top,#2B1E66,#691b83)
+}
+
+.phone{
+ width: ;
+ height: 470px;
+ margin-left:680px;
+ margin-top: -26px;
+}
+
+.textInfo{
+  margin-top: -461px;
+  margin-left: 148px;
+}
+
+.textInfo1,.textInfo3,.textInfo5{
+  font-family: 'Montserrat';
+  color:white;
+  font-size: 26px;
+  font-weight:bold;
+  letter-spacing: -0.9px;
+  margin-top:2px;
+}
+
+.textInfo2,.textInfo4,.textInfo6{
+font-family: 'Montserrat';
+color:white;
+font-size: 15px;
+letter-spacing: -0.7px;
+margin-top: -0.5px;
+  padding: 3px;
+}
+
+section{
+  background-color: white;
+  height: 480px;
+  font-family: 'Montserrat';
+  display: flex;
+}
+
+.textWatch{
+  margin-top: 45px;
+  margin-left: 41px;
+  font-size: 10px;
+  letter-spacing: 0.7px;
+
+}
+
+.textAmplify{
+  margin-top: 59px;
+  margin-left: -45px;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+.textDescription{
+  margin-top: 105px;
+  margin-left: -286px;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  line-height:21px;
+}
+.videoOne{
+  margin-left: 39px;
+  width: 863px;
+}
+.videoTwo{
+  width: 863px;
+  height: 478px;
+  display: relative;
+}
+
+.apartVideo{
+  background-color: white;
+  width: 418px;
+}
+
+.textWatch2{
+  margin-top:44px;
+  font-size: 11px;
+  margin-left: 40px;
+
+}
+.textJune{
+  margin-top:0px;
+  font-size: 25px;
+  margin-left: 40px;
+  letter-spacing: 1.4px;
+}
+
+.textDescription2{
+  margin-top:19px;
+  margin-left: 40px;
+  font-size: 16px;
+}
+
+.textWatch{
+  margin-top: 45px;
+  margin-left: 41px;
+  font-size: 10px;
+  letter-spacing: 0.7px;
+
+}
+
+.textCenter{
+  margin-top: 59px;
+  margin-left: -45px;
+  font-size: 25px;
+  letter-spacing:0.5px;
+
+}
+
+.textDescription3{
+  margin-top: 105px;
+  margin-left: -300px;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  line-height:21px;
+}
+.videoThree{
+  margin-left:46px;
+}
+
+footer{
+  background-color: #323647;
+  font-family: "Montserrat";
+  font-size: 15px;
+  width:100%;
+  height:488px;
+  display: flex;
+  color: white;
+}
+
+.log,.partner,.learn{
+  margin-top: 57px;
+  margin-left: 150px;
+  line-height:24px;
+  letter-spacing: -0.5px;
+  margin-right: 20px;
+}
+
+
+.logStores{
+  flex-direction: column;
+  display: flex;
+  margin-top: 83px;
+  margin-left: 153px;
+}
+
+.logApple{
+  width:120px;
+  height:50px;
+}
+
+.logGoogle{
+  width:120px;
+  height:37px;
+  margin-top:25px;
+}
+
+.logMicrosoft{
+  width:120px;
+  height:43px;
+  margin-top:35px;
+}
+
+.socialMedia{
+  display:flex;
+  color: white;
+  margin-block-start: 340px;
+  margin-left: -540px;
+}
+
+.iconFac,.iconTwi,.iconInst {
+  margin-left: 59px;
+  height: 28px;
+  width: 26px;
+ }
+
+
+.media{
+ border: solid 1px black;
+ display: flex;
+
+}
+  small{
+  margin-block-start: 415px;
+  margin-left: -191px;
+  letter-spacing: -0.3px;
+  }
+
+hr{
+  border: solid 1px white;
+  display: flex;
+  margin-top: -104px;
+  margin-left:250px;
+  width: 778px;
+}

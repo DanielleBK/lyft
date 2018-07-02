@@ -1,3 +1,13 @@
+desafio de código -Sprint2-
+Recriando a página do Lyft.
+
+Pagina recriada utilizando a extensão Pixel a Pixel do Firefox.
+
+-A pagina precisa de algumas melhorias
+-Abrir o index no Firefox
+-No Chrome tem a necessidade de ajustes no pixel a pixel.
+
+INSTRUÇÕES:
 # Lyft
 
 * **Curso:** _Cirando um site interativo com javascript_
